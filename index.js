@@ -1,1 +1,1 @@
-export const index = 1.5
+export const index = 2
